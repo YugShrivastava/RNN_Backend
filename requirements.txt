@@ -1,0 +1,4 @@
+fastapi[standard]
+torch==2.7.1 --index-url https://download.pytorch.org/whl/cpu
+nltk
+pickleDB
